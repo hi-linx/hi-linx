@@ -3,7 +3,7 @@
 🧠 Técnico em Desenvolvimento de Sistemas <br/>
 📖 Formado Desenvolvimento de Sistemas na ETEC Professor Alfredo de Barros Santos <br/>
 📖 Atualmente cursando Análise e Desenvolvimento de Sistemas na Fatec Prof. João Mod. <br/>
-🗣️ Falante Intermediário de Inglês, nível B1 <br/>
+🗣️ Falante Intermediário de Inglês<br/>
 💻 Desenvolvedor Front-End <br/>
 
 [Instagram] (https://www.instagram.com/socaares_/?next=%2F) <br/>
