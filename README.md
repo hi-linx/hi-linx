@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Lucas Soares.
 
 🧠 Técnico em Desenvolvimento de Sistemas <br/>
-📖 Estudante em Desenvolvimento de Sistemas na ETEC Professor Alfredo de Barros Santos <br/>
+📖 Formado Desenvolvimento de Sistemas na ETEC Professor Alfredo de Barros Santos <br/>
+📖 Atualmente cursando Análise e Desenvolvimento de Sistemas na Fatec Prof. João Mod. <br/>
 🗣️ Falante Intermediário de Inglês, nível B1 <br/>
 💻 Desenvolvedor Front-End <br/>
 
